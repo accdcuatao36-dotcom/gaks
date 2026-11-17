@@ -1,0 +1,16 @@
+{
+  "name": "Fake Server Creation Year",
+  "description": "Change the displayed creation year of a selected Discord server on this device only.",
+  "authors": [
+    {
+      "name": "Custom plugin",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "version": "1.0.0",
+  "hash": "1353bb2e06cb3ea5a6d5faf3def855a26e4ffa21e59bf4e830fa0b04eec8beae",
+  "vendetta": {
+    "icon": "ic_calendar"
+  }
+}
